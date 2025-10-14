@@ -1,0 +1,16 @@
+Age,Gender,Country,self_employed,family_history,work_interfere,no_employees,remote_work,tech_company,benefits,wellness_program,seek_help,anonymity,leave,mental_health_consequence,coworkers,supervisor,mental_health_interview,mental_vs_physical
+28,Male,United States,No,No,Sometimes,6-25,No,Yes,Yes,No,Yes,Yes,Somewhat easy,No,Some of them,Yes,No,Don't know
+35,Female,Canada,No,Yes,Often,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Maybe,Yes
+42,Male,United Kingdom,Yes,No,Rarely,1-5,Yes,No,No,No,No,Don't know,Very difficult,Yes,No,No,Yes,No
+29,Female,Germany,No,Yes,Never,100-500,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Some of them,Some of them,No,Yes
+31,Male,Netherlands,No,No,Sometimes,More than 1000,No,Yes,Don't know,No,Don't know,Don't know,Don't know,No,Yes,Yes,Yes,Don't know
+45,Female,Australia,No,Yes,Often,6-25,No,Yes,Yes,No,Yes,No,Somewhat difficult,Maybe,Some of them,No,Maybe,No
+26,Male,France,No,No,Rarely,26-100,Yes,Yes,No,Yes,No,Yes,Very easy,No,Yes,Yes,No,Yes
+38,Female,India,No,Yes,Never,100-500,No,No,Don't know,Don't know,Don't know,Don't know,Don't know,Yes,No,No,Yes,No
+33,Male,United States,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Some of them,Yes,Maybe,Yes
+41,Female,Canada,No,Yes,Often,More than 1000,No,Yes,Yes,No,Yes,Yes,Very difficult,Maybe,Yes,Yes,No,No
+27,Male,United Kingdom,No,No,Rarely,6-25,No,Yes,No,No,No,Don't know,Somewhat difficult,No,Some of them,Some of them,Yes,Don't know
+36,Female,Germany,No,Yes,Never,26-100,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,Yes,Yes,Maybe,Yes
+30,Male,Netherlands,No,No,Sometimes,100-500,No,Yes,Don't know,No,Don't know,No,Don't know,Maybe,No,No,No,No
+39,Female,Australia,Yes,Yes,Often,1-5,Yes,No,No,No,No,Don't know,Very difficult,Yes,Some of them,No,Yes,Don't know
+34,Male,France,No,No,Rarely,More than 1000,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,Yes,Yes,Maybe,Yes

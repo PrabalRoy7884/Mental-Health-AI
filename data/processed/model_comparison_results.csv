@@ -1,0 +1,2 @@
+,F1 Score,Precision,ROC AUC,Recall,Test Accuracy
+Random Forest,0.84,0.82,0.89,0.87,0.85

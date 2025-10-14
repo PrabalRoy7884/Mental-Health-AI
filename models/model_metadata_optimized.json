@@ -1,0 +1,24 @@
+{
+  "timestamp": "20251014_202527",
+  "best_model_name": "Naive Bayes",
+  "best_model_accuracy": 0.7420634920634921,
+  "all_models": [
+    "XGBoost",
+    "LightGBM",
+    "Random Forest",
+    "CatBoost",
+    "Logistic Regression",
+    "SVM",
+    "Gradient Boosting",
+    "Naive Bayes",
+    "Decision Tree"
+  ],
+  "ensemble_models": [
+    "Voting Classifier"
+  ],
+  "improvements": {
+    "hyperparameter_optimization": "Improved default parameters used",
+    "ensemble_methods": "Voting classifier implemented",
+    "better_model_selection": "Optimized hyperparameters for each model"
+  }
+}
