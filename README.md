@@ -26,6 +26,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+**Or access the deployed version here:**  
+👉 [Mental Health Treatment Predictor UI] : https://mental-health-ai-6rzg.onrender.com/
+
+
 ## Expected files and folders
 ```
 .
@@ -95,3 +100,4 @@ How to update the comparison for your results:
 
 ## License
 Educational use only. Add your preferred license (e.g., MIT) before publishing.
+
